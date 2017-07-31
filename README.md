@@ -1,2 +1,2 @@
 # RedeemPoints
-积分商城
+积分兑换
